@@ -1,0 +1,14 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "task2",
+  "main": "task1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "personFromPackage": "file: /person_from_package"
+  }
+}
